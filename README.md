@@ -1,7 +1,3 @@
-# Operações (org-app)
-
-Organizador operações
-
 ## Install the dependencies
 ```bash
 npm install
